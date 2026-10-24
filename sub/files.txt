@@ -21,3 +21,4 @@ configs_020.txt
 configs_021.txt
 configs_022.txt
 configs_023.txt
+configs_024.txt
